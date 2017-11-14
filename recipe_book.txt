@@ -1,12 +1,14 @@
-Git better at cooking! - Pasta-pizza version!
-By Cristina Gatt, Aidan Cauchi, Matthew Vella
+Git better at cooking - Pasta-pizza version!
+By Cristina Gatt, Aidan Cauchi and Matthew Vella
+
+===========================================================================================================================================================================================================================================
 
 Introduction
--------------------
+------------
 Dear Reader,
 Thank you for choosing our book to enhance your cooking experience. We guarantee that you will not be disappointed with the result of the recipes. May you be brave enough to try them all!
 
-==============================================================================================================================================================================
+===========================================================================================================================================================================================================================================
 
 Pizza Margherita
 ---------------
@@ -44,16 +46,16 @@ Top and bake: Heat oven to 240C/fan 220C /gas 8. Put another baking sheet or an 
 Pizza Capricciosa
 -----------------
 
-Pizza Dough
+Pizza Dough:
 4 cup flour (preferrably Italian white flour)
 
 3 tsp kosher salt
 
 2 tsp instant yeast
 
-2 cup water
+2 cups water
 
-Capricciosa Pizza
+Capricciosa Pizza:
 ½ cup San Marzano tomatoes, blended
 
 ¾ cup fresh mozzarella (preferrably Fior Di Latte), chopped
@@ -77,6 +79,7 @@ drizzle olive oil
 Method:
 
 Pizza Dough
+-----------
 
 1. In a large bowl, whisk together flour, salt, and yeast.
 
@@ -102,7 +105,7 @@ Capricciosa Pizza:
 ===========================================================================================================================================================================================================================================
 
 Conclusion
----------------
+----------
 We would like to thank once more for taking a look at what we have ‘cooked up’ in this book. We hope we left you wanting for more! 
 
 
