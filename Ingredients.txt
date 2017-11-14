@@ -1,6 +1,5 @@
 Meat
 ----
-x8 Eggs
 -1 ¼ Kg piece of centre-cut beef fillet, trimmed
 -20 button mushroomms, finely sliced
 -x7 Prosciutto slices
@@ -24,7 +23,7 @@ Dairy
 -325g Unsalted butter
 -400g Condensed milk
 -325ml Cream
--125g Butter
+-125g + 2 tbsp Butter
 -125ml Coconut milk
 -350g Mascapone Cheese
 -¾ cup granted Romano cheese
@@ -33,10 +32,13 @@ Dairy
 -2/3 cup + 100g parmesan
 -125g + 3/4 cup mozzarella
 -100 g ricotta cheese
+150g Blue Cheese
+50g Vegetarian Cheese
 
 Nuts
 ----
 230g Pecans
+4 tbsp Ground almonds
 
 
 Dry ingredients
@@ -72,6 +74,7 @@ Liquids
 -1 White Wine 
 -x2 Bottle Olive Oil
 -1.5L Chicken or Vegetable Stock
+-+1 Vegetable stock cube
 -x1 Vinegar
 -1 bottle sunflower oil
 -75ml sherry vinegar
@@ -80,36 +83,37 @@ Liquids
 Herbs and spices
 ----------------
 -2 tsps salt
--Paprika
+-x2 Paprika
 -x1 Basil small bunch
--x1 Parsley
+-x2 Parsley
 -x1 Thyme 
 -1 good-quality beef stock
 -x1 Garlic clove
--x3 basil leaf
+-x4 basil leaf
 -15g Fresh mint
 
 
 Vegetable
 ----------
 -x4 Little Gem Lettuce
--x1 ChivesChives  
+-x1 Chives 
 -Tomatoes x2 handfuls
 -½ cup San Marzano tomatoes
--600g Mushrooms
+-1100g Mushrooms
 -1-2 cremini mushrooms
--x2 Onion 
+-x3 Onion 
 -x2 Celery Stick 
--x3 Garlic cloves
+-x6 Garlic cloves
 -8 shallots, peeled and finely sliced
 -Sliced Egg plants
 -x1 Salata
 -8 cups vegetable broth
--Cherry tomatoes
 -x6 Black Olives
--x5 Artichoke hearts
+-x5 + 1/2 can Artichoke hearts
 -x2 mixed-colour courgettes
 -100 g frisée
+-390g Roasted red peppers
+-270g cherry tomatoes
 
 
 Sea Food
@@ -140,3 +144,9 @@ Pasta
 -24 ounces dry fettuccini 
 -2 cups arborio rice
 -150 g dried linguine
+-800g Fresh gnocchi
+
+
+Others
+------
+x15 Eggs
