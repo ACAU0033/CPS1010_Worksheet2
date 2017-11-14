@@ -1,34 +1,38 @@
 Meat
 ----
-x2 Eggs
+x8 Eggs
 -1 ¼ Kg piece of centre-cut beef fillet, trimmed
 -20 button mushroomms, finely sliced
+-x7 Prosciutto slices
+-x7 Salami slices
 
 
 Sweets
 -----
-175g Caster sugar
-260g Digestive biscuits
-Cocoa powder
-125g Soft light brown sugar
-25g Brown sugar
-3 cups sugar
-3/4 cups HERSHEY'S Cocoa
-2 tbps Vanilla extract
+-175g Caster sugar
+-260g Digestive biscuits
+-Cocoa powder
+-125g Soft light brown sugar
+-25g Brown sugar
+-3 cups sugar
+-3/4 cups HERSHEY'S Cocoa
+-2 tbps Vanilla extract
 
 
 Dairy
 -----
-225g Unsalted butter
-400g Condensed milk
-325ml Cream
-125g Butter
-125ml Coconut milk
-350g Mascapone Cheese
-¾ cup granted Romano cheese
-½ cup granted Parmesan cheese
-Ricotta 
-2/3 cup parmesan (freshly grated)
+-325g Unsalted butter
+-400g Condensed milk
+-325ml Cream
+-125g Butter
+-125ml Coconut milk
+-350g Mascapone Cheese
+-¾ cup granted Romano cheese
+-½ cup granted Parmesan cheese
+-Ricotta 
+-2/3 cup + 100g parmesan
+-125g + 3/4 cup mozzarella
+-100 g ricotta cheese
 
 Nuts
 ----
@@ -37,43 +41,53 @@ Nuts
 
 Dry ingredients
 ---------------
-1-3/4 cups all purpose flour
 1-1/2 teaspoons baking powder
 1-1/2 teaspoons baking soda
 
 
+Dough
+-----
+-1-3/4 cups all purpose flour
+-300g strong bread flour
+-3 tbsp instant yeast
+-4 Cup flour
+-3 tbsp kosher salt
+-1/2 Royal pasta dough
+
+
 Fruits
 ------
-x3 Bananas
-x1 Lemon zest
-x6 Lemons
-x10 Oranges
-Grated orange rind
+-x3 Bananas
+-x1 Lemon zest
+-x7 Lemons
+-x10 Oranges
+-Grated orange rind
 
 
 Liquids
 -------
-3 1/2 cups water
-1/3 cup fresh lemon juice
-1/2 cup vegetable oil
-1 White Wine 
-x2 Bottle Olive Oil
-1.5L Chicken or Vegetable Stock
-x1 Vinegar
-1 bottle sunflower oil
-75ml sherry vinegar
-1 bottle fruity red wine, such as Rioja
+-5 1/2 cups water
+-1/3 cup fresh lemon juice
+-1/2 cup vegetable oil
+-1 White Wine 
+-x2 Bottle Olive Oil
+-1.5L Chicken or Vegetable Stock
+-x1 Vinegar
+-1 bottle sunflower oil
+-75ml sherry vinegar
+-1 bottle fruity red wine, such as Rioja
 
 Herbs and spices
 ----------------
-Mint Sprigs
 -2 tsps salt
 -Paprika
 -x1 Basil small bunch
 -x1 Parsley
 -x1 Thyme 
 -1 good-quality beef stock
--Fresh basil
+-x1 Garlic clove
+-x3 basil leaf
+-15g Fresh mint
 
 
 Vegetable
@@ -81,7 +95,9 @@ Vegetable
 -x4 Little Gem Lettuce
 -x1 ChivesChives  
 -Tomatoes x2 handfuls
+-½ cup San Marzano tomatoes
 -600g Mushrooms
+-1-2 cremini mushrooms
 -x2 Onion 
 -x2 Celery Stick 
 -x3 Garlic cloves
@@ -89,6 +105,11 @@ Vegetable
 -Sliced Egg plants
 -x1 Salata
 -8 cups vegetable broth
+-Cherry tomatoes
+-x6 Black Olives
+-x5 Artichoke hearts
+-x2 mixed-colour courgettes
+-100 g frisée
 
 
 Sea Food
@@ -105,6 +126,7 @@ Sauce
 -2 tsp Creamed Horseradish 
 -1 tsp Tabosco Sauce 
 -1 tsp Tomato Puree
+-100ml Passata
 
 
 Bread
@@ -115,5 +137,6 @@ Bread
 
 Pasta
 --------
-- 24 ounces dry fettuccini 
-- 2 cups arborio rice
+-24 ounces dry fettuccini 
+-2 cups arborio rice
+-150 g dried linguine
