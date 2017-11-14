@@ -1,3 +1,12 @@
+Git better at cooking!
+By Cristina Gatt, Aidan Cauchi, Matthew Vella
+
+Introduction
+-------------------
+Dear Reader,
+Thank you for choosing our book to enhance your cooking experience. We guarantee that you will not be disappointed with the result of the recipes. May you be brave enough to try them all!
+
+
 Starters
 --------
 
@@ -261,5 +270,8 @@ Method
 
 =============================================================================================================================================================================================================================================
 
+Conclusion
+---------------
+We would like to thank once more for taking a look at what we have ‘cooked up’ in this book. We hope we left wanting for more! 
 
 
