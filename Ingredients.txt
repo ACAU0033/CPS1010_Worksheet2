@@ -1,7 +1,8 @@
 Meat
 ----
--x1 Prosciutto cotto slice
+-x7 Prosciutto slices
 -x7 Salami slices
+-x6 Eggs
 
 
 Dough
@@ -10,11 +11,14 @@ Dough
 -3 tbsp instant yeast
 -4 Cup flour
 -3 tbsp kosher salt
+-1/2 Royal pasta dough
 
 Dairy
 -----
 -125g + 3/4 cup mozzarella
--Parmesan shavings
+-100g Parmesan
+-100 g ricotta cheese
+-100 g unsalted butter
 
 
 Liquids
@@ -27,6 +31,7 @@ Herbs and spices
 ----------------
 -x1 Garlic clove
 -x3 basil leaf
+-15g Fresh mint
 
 
 Vegetables
@@ -36,6 +41,8 @@ Vegetables
 -1-2 cremini mushrooms
 -x6 Black Olives
 -x5 Artichoke hearts
+-2 mixed-colour courgettes
+-100 g frisée
 
 
 Sauce
@@ -43,3 +50,11 @@ Sauce
 - 100ml Passata
 
 
+Fruit
+-----
+-x1 Lemon
+
+
+Pasta 
+-------------
+-150 g dried linguine
